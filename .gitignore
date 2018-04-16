@@ -1,0 +1,6 @@
+#Salesforce
+.sfdx/
+#Visual Studio Code
+.vscode/
+#ignore thumbnails created by windows
+Thumbs.db

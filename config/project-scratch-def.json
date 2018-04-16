@@ -1,0 +1,7 @@
+{
+    "orgName": "SEMA",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
