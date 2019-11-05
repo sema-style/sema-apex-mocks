@@ -1,6 +1,6 @@
 {
     "packageDirectories": [{
-        "path": "sema-apex-mocks",
+        "path": "src",
         "default": true
     }],
     "namespace": "",
