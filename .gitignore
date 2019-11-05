@@ -4,3 +4,5 @@
 .vscode/
 #ignore thumbnails created by windows
 Thumbs.db
+
+/.history
